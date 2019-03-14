@@ -1,0 +1,37 @@
+html {
+    font-family: "Microsoft YaHei", 微软雅黑, "Microsoft JhengHei";
+    font-size: 10px;
+    background: black;
+}
+
+body {
+    width: 900px;
+    margin: 15px auto;
+    padding: 20px 20px 20px 20px;
+    background: red;
+    border: 5px solid white;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-align: center;
+    letter-spacing: 20px;
+    line-height: 20px;
+    text-shadow: 1px 1px 1px red;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+ul li{
+    color: red;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+}
